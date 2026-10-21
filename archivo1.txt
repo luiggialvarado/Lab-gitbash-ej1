@@ -1,1 +1,2 @@
 Ejercicio 1 - Lab GitBash
+Cambios hechos en rama2
